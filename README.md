@@ -12,3 +12,5 @@ The correct answers are predefined in the JavaScript file.
 Scores are animated using the ```setInterval()``` method to incrementally display the final score.
 The ```scrollTo()``` method is used to scroll back up to the page header to view the scores upon submission.
 The result section dynamically shows the user's score out of 100%.
+
+👉🏼 <a href="https://frolicking-narwhal-584b99.netlify.app/">The JS Quiz</a>

@@ -1,4 +1,4 @@
-# JS-Quiz-Website
+# 👉🏼 <a href="https://frolicking-narwhal-584b99.netlify.app/">JS-Quiz-Website</a>
 This is a simple single-page quiz website built using HTML, CSS (Bootstrap), and JavaScript. The quiz comprises basic JavaScript questions with multiple-choice answers. Upon completion, the user receives a score displayed dynamically using animations.
 
 ## Functionality
@@ -13,4 +13,3 @@ Scores are animated using the ```setInterval()``` method to incrementally displa
 The ```scrollTo()``` method is used to scroll back up to the page header to view the scores upon submission.
 The result section dynamically shows the user's score out of 100%.
 
-👉🏼 <a href="https://frolicking-narwhal-584b99.netlify.app/">The JS Quiz</a>

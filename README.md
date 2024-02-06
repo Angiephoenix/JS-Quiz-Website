@@ -1,4 +1,4 @@
-# 👉🏼 <a href="https://frolicking-narwhal-584b99.netlify.app/">JS-Quiz-Website</a>
+# ➡️ <a href="https://frolicking-narwhal-584b99.netlify.app/">JS-Quiz-Website</a>
 This is a simple single-page quiz website built using HTML, CSS (Bootstrap), and JavaScript. The quiz comprises basic JavaScript questions with multiple-choice answers. Upon completion, the user receives a score displayed dynamically using animations.
 
 ## Functionality
